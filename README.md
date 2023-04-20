@@ -1,0 +1,2 @@
+# izdevumi-cli
+Bibliotekas izveide
